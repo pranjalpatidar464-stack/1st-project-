@@ -1,4 +1,4 @@
-# 1st-project-
+ # 1st-project-
 this is my first project
 
-auther name = pranjal patidar
+auther name = pranjal patidar(student)
